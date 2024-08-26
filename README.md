@@ -18,7 +18,10 @@
     <summary><h2 style="display: inline-block">Code is life</h2></summary>
   </ul>
 </div>
-
+<!--Intro end-->
+  <table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 <!--Intro start-->
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Nodejs, Php**
@@ -28,7 +31,17 @@
 - 📫 Feel free to reach me out **nicolas.castano.delgado@gmail.com**
 
 - 🏠 Here is my Discord –  [nicoj3000] my username!
-<!--Intro end-->
+
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 
 
