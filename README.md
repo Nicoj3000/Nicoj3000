@@ -24,7 +24,7 @@
 <td width="50%" align="left">
 
 <!--Intro start-->
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Nodejs, Php**
+- 🌱 I’m currently learning **JavaScript,TypeScript, HTML, CSS, React, Nodejs, Next.js **
 
 - ☁️ I`m interesting in web developer
 
