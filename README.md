@@ -1,10 +1,14 @@
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+
 <div align="center">
   <h1>Hi 👋, I'm Nicolás</h1>
   <p><b>Software Engineer · Full-Stack Developer · IT Director</b></p>
   <p>📍 Pereira, Colombia 🇨🇴</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=4D2EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Technical+Co-Lead;React+19+%26+TypeScript+5+Expert;Managing+Teams+%26+Building+SaaS;Monorepo+Architect+%7C+9+Packages;Leading+Migrations+%26+Scaling+Systems)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -18,44 +22,8 @@
     Software Engineer focused on <b>full-stack development</b> and <b>cybersecurity</b>, building scalable and secure systems.
   </p>
 
-  <hr/>
-
-  <h3>🧠 Focus</h3>
-  <ul>
-    <li>Scalable Web Applications</li>
-    <li>System Architecture</li>
-    <li>Process Optimization</li>
-    <li>Security fundamentals</li>
-  </ul>
-
-  <hr/>
-
-  <h3>⚡ Strengths</h3>
-  <ul>
-    <li>🏗️ Scalable Systems</li>
-    <li>📊 Data-Driven Decisions</li>
-    <li>⚡ Performance Optimization</li>
-    <li>🚀 Technical Leadership</li>
-  </ul>
-
-  <hr/>
-
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <b>Frontend:</b> React, Next.js, TypeScript<br/>
-    <b>Backend:</b> Node.js, Python<br/>
-    <b>DB:</b> PostgreSQL, MySQL, MongoDB
-  </p>
-</div>
-
-<p align="center"><i>💡 "Building scalable systems that solve real business problems."</i></p>
-
----
-
-## 🧩 Profile (JavaScript)
-
 ```javascript
-class NicolasCastanoDelgado {
+class Nicolas {
   constructor() {
     this.role = ["IT Director", "Software Engineer", "Full-Stack Developer"];
     this.location = "Pereira, Colombia";
@@ -99,8 +67,39 @@ class NicolasCastanoDelgado {
   }
 }
 
-const nicoj3000 = new NicolasCastanoDelgado();
+const nicoj3000 = new Nicolas();
 ```
+  <hr/>
+
+  <h3>🧠 Focus</h3>
+  <ul>
+    <li>Scalable Web Applications</li>
+    <li>System Architecture</li>
+    <li>Process Optimization</li>
+    <li>Security fundamentals</li>
+  </ul>
+
+  <hr/>
+
+  <h3>⚡ Strengths</h3>
+  <ul>
+    <li>🏗️ Scalable Systems</li>
+    <li>📊 Data-Driven Decisions</li>
+    <li>⚡ Performance Optimization</li>
+    <li>🚀 Technical Leadership</li>
+  </ul>
+
+  <hr/>
+
+  <h3>🛠️ Tech Stack</h3>
+  <p>
+    <b>Frontend:</b> React, Next.js, TypeScript<br/>
+    <b>Backend:</b> Node.js, Python<br/>
+    <b>DB:</b> PostgreSQL, MySQL, MongoDB
+  </p>
+</div>
+
+<p align="center"><i>💡 "Building scalable systems that solve real business problems."</i></p>
 
 ---
 
