@@ -10,61 +10,75 @@
 </div>
 
 👨‍💻 About Me
-const nicolas = {
-  role: ["IT Director", "Software Engineer", "Full-Stack Developer"],
-  location: "Pereira, Colombia 🇨🇴",
-  focus: [
-    "Scalable Web Applications",
-    "Process Optimization",
-    "System Architecture",
-    "Business-Driven Development"
-  ],
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Python"],
-    databases: ["PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "APIs", "Modern workflows"]
-  }
-};
+class NicolasCastano {
+    constructor() {
+        this.name = "Nicolas Castaño";
+        this.role = ["IT Director", "Software Engineer", "Full-Stack Developer"];
+        this.location = "Pereira, Colombia 🇨🇴";
 
-Software engineer with experience leading IT strategy and development execution, focused on building scalable solutions that improve operational efficiency and generate measurable business value.
+        this.currentFocus = [
+            "Scalable Web Applications",
+            "System Architecture",
+            "Process Optimization",
+            "Business-Driven Development"
+        ];
 
-I combine technical expertise with strategic thinking, allowing me to design systems, optimize processes, and deliver impactful digital products.
+        this.techStack = {
+            frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
+            backend: ["Node.js", "Python"],
+            databases: ["PostgreSQL", "MySQL"],
+            tools: ["Docker", "Git", "REST APIs", "Modern workflows"]
+        };
 
-💼 Experience
-🏢 IT Director / Software Engineer
+        this.experience = [
+            {
+                company: "FH Vélez Abogados",
+                role: "IT Director / Software Engineer",
+                highlights: [
+                    "Led IT strategy and digital transformation initiatives",
+                    "Coordinated development projects aligned with business goals",
+                    "Optimized internal processes through custom software solutions",
+                    "Implemented scalable systems to improve operational efficiency"
+                ]
+            },
+            {
+                company: "Hidroconsultora",
+                role: "Full-Stack Developer",
+                highlights: [
+                    "Developed route optimization system using Python",
+                    "Implemented graph algorithms with NetworkX",
+                    "Processed data with Pandas for decision-making",
+                    "Integrated geolocation APIs using Geopy",
+                    "Reduced operational costs and transportation time"
+                ]
+            }
+        ];
 
-FH Vélez Abogados — Pereira, Colombia
+        this.keyProject = {
+            name: "Route Optimization System",
+            stack: ["Python", "Pandas", "NetworkX", "Geopy"],
+            impact: [
+                "Optimized transport routes using graph-based algorithms",
+                "Reduced travel time and operational costs",
+                "Enabled data-driven logistics decisions",
+                "Integrated real-world geolocation data"
+            ]
+        };
+    }
 
-🚀 Lead IT strategy and execution aligned with business goals
-🧩 Drive digital transformation initiatives to improve operational efficiency
-🏗️ Coordinate development projects and scalable system implementations
-⚡ Optimize internal processes through custom software solutions
-💻 Full-Stack Developer
+    getStrengths() {
+        return [
+            "🏗️ System architecture & scalable solutions",
+            "📊 Data-driven problem solving",
+            "⚡ Performance optimization & automation",
+            "🧩 Translating business needs into technical solutions",
+            "🚀 IT leadership & project coordination"
+        ];
+    }
+}
 
-Hidroconsultora
-
-🧠 Developed a route optimization system using Python
-📊 Processed and analyzed data with Pandas for decision-making
-🗺️ Integrated geolocation services using Geopy for real-world calculations
-🔗 Implemented graph-based algorithms with NetworkX to improve routing efficiency
-💰 Reduced transportation time and operational costs through optimization
-🚀 Key Project
-🛣️ Route Optimization System
-
-Tech Stack: Python • Pandas • NetworkX • Geopy
-
-📍 Designed a system to optimize delivery and transport routes
-🧠 Applied graph algorithms for efficient path calculation
-📊 Data-driven decision making using real datasets
-⚡ Significant reduction in operational costs and travel time
-🧠 What I Bring
-🏗️ Design of scalable and maintainable systems
-📊 Strong problem-solving with data-driven approaches
-⚡ Performance optimization and process automation
-🧩 Translation of business needs into technical solutions
-🚀 Leadership in IT strategy and development execution
-
+const nicolas = new NicolasCastano();
+console.log("Building systems that create real impact 🚀");
 
 
 
