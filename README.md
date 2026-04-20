@@ -9,7 +9,24 @@
   </ul>
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+<div style="border-radius:16px; padding:20px; border:1px solid #2f2f2f; background: linear-gradient(145deg, #0f0f0f, #1a1a1a); box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+
+<table>
+<tr>
+
+<!-- LEFT SIDE (CODE) -->
+
+<td width="55%" align="left">
+
+```javascript
 class NicolasCastano {
     constructor() {
         this.name = "Nicolas Castaño";
@@ -24,61 +41,84 @@ class NicolasCastano {
         ];
 
         this.techStack = {
-            frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
+            frontend: ["React", "Next.js", "TypeScript"],
             backend: ["Node.js", "Python"],
-            databases: ["PostgreSQL", "MySQL"],
-            tools: ["Docker", "Git", "REST APIs", "Modern workflows"]
+            databases: ["PostgreSQL", "MySQL"]
         };
-
-        this.experience = [
-            {
-                company: "FH Vélez Abogados",
-                role: "IT Director / Software Engineer",
-                highlights: [
-                    "Led IT strategy and digital transformation initiatives",
-                    "Coordinated development projects aligned with business goals",
-                    "Optimized internal processes through custom software solutions",
-                    "Implemented scalable systems to improve operational efficiency"
-                ]
-            },
-            {
-                company: "Hidroconsultora",
-                role: "Full-Stack Developer",
-                highlights: [
-                    "Developed route optimization system using Python",
-                    "Implemented graph algorithms with NetworkX",
-                    "Processed data with Pandas for decision-making",
-                    "Integrated geolocation APIs using Geopy",
-                    "Reduced operational costs and transportation time"
-                ]
-            }
-        ];
 
         this.keyProject = {
             name: "Route Optimization System",
-            stack: ["Python", "Pandas", "NetworkX", "Geopy"],
-            impact: [
-                "Optimized transport routes using graph-based algorithms",
-                "Reduced travel time and operational costs",
-                "Enabled data-driven logistics decisions",
-                "Integrated real-world geolocation data"
-            ]
+            impact: "Reduced costs & optimized routes using graph algorithms"
         };
     }
 
     getStrengths() {
         return [
-            "🏗️ System architecture & scalable solutions",
-            "📊 Data-driven problem solving",
-            "⚡ Performance optimization & automation",
-            "🧩 Translating business needs into technical solutions",
-            "🚀 IT leadership & project coordination"
+            "🏗️ Scalable Architecture",
+            "📊 Data-Driven Systems",
+            "⚡ Performance Optimization",
+            "🚀 Technical Leadership"
         ];
     }
 }
 
 const nicolas = new NicolasCastano();
-console.log("Building systems that create real impact 🚀");
+```
+
+</td>
+
+<!-- RIGHT SIDE (CARD INFO) -->
+
+<td width="45%" align="left">
+
+<h3>🚀 Nicolas Castaño</h3>
+
+<p><b>Full-Stack Developer & IT Director</b></p>
+
+<p>📍 Pereira, Colombia 🇨🇴</p>
+
+---
+
+### 🧠 Focus
+
+* Web Applications
+* System Architecture
+* Process Optimization
+* Business Impact
+
+---
+
+### ⚡ Strengths
+
+* 🏗️ Scalable Systems
+* 📊 Data Analysis
+* ⚡ Performance Optimization
+* 🚀 Leadership
+
+---
+
+### 🛠️ Stack
+
+**Frontend:** React, Next.js, TypeScript
+**Backend:** Node.js, Python
+**DB:** PostgreSQL, MySQL
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <i>💡 "Building scalable systems that solve real business problems."</i>
+</p>
 
 
 
