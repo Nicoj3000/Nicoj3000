@@ -24,13 +24,46 @@
 <td width="50%" align="left">
 
 <!--Intro start-->
-- 🌱 I’m currently learning **JavaScript,TypeScript, HTML, CSS, React, Nodejs, Next.js **
+## 🚀 About Me
 
-- ☁️ I`m interesting in web developer
+Software Developer focused on building **scalable, efficient, and high-impact web applications**.
+I specialize in **fullstack development**, creating robust solutions that combine solid backend architecture with intuitive user experiences.
 
-- 📫 Feel free to reach me out **nicolas.castano.delgado@gmail.com**
+I enjoy solving real-world problems through technology, optimizing processes, and delivering products that generate measurable value.
 
-- 🏠 Here is my Discord –  [nicoj3000] my username!
+---
+
+## 🧑‍💻 Tech Stack
+
+* **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
+* **Backend:** Node.js
+* **Architecture:** REST APIs, modular design, clean architecture
+* **Tools:** Git, modern development workflows
+
+---
+
+## 💡 What I Do
+
+* 🌐 Build fullstack web applications
+* 🧩 Design scalable and maintainable systems
+* 📊 Transform business needs into technical solutions
+* ⚡ Optimize performance and user experience
+
+---
+
+## 📫 Contact
+
+* 📧 **[nicolas.castano.delgado@gmail.com](mailto:nicolas.castano.delgado@gmail.com)**
+* 💬 **Discord:** nicoj3000
+
+---
+
+## 🧠 Professional Profile
+
+Software developer with a strong focus on **creating efficient and scalable digital products**.
+I bring a balance between **technical execution and strategic thinking**, allowing me to contribute not only in development but also in decision-making and solution design.
+
+Always improving, always building.
 
 
 </td>
