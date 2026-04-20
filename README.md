@@ -13,25 +13,24 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="100%">
+<!-- CARD CONTAINER -->
 
-<div style="border-radius:16px; padding:20px; border:1px solid #2f2f2f; background: linear-gradient(145deg, #0f0f0f, #1a1a1a); box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+<div style="max-width:800px; width:100%; border-radius:16px; padding:20px; border:1px solid #2f2f2f; background: linear-gradient(145deg, #0f0f0f, #1a1a1a); box-shadow: 0 8px 24px rgba(0,0,0,0.4); text-align:left;">
 
-<table>
-<tr>
+<!-- HEADER -->
 
-<!-- LEFT SIDE (CODE) -->
+<h3 align="center">🚀 Nicolas Castaño</h3>
+<p align="center"><b>Full-Stack Developer & IT Director</b></p>
+<p align="center">📍 Pereira, Colombia 🇨🇴</p>
 
-<td width="55%" align="left">
+---
+
+<!-- CODE BLOCK -->
 
 ```javascript
 class NicolasCastano {
     constructor() {
-        this.name = "Nicolas Castaño";
         this.role = ["IT Director", "Software Engineer", "Full-Stack Developer"];
-        this.location = "Pereira, Colombia 🇨🇴";
 
         this.currentFocus = [
             "Scalable Web Applications",
@@ -64,6 +63,41 @@ class NicolasCastano {
 
 const nicolas = new NicolasCastano();
 ```
+
+---
+
+### 🧠 Focus
+
+* Web Applications
+* System Architecture
+* Process Optimization
+* Business Impact
+
+---
+
+### ⚡ Strengths
+
+* 🏗️ Scalable Systems
+* 📊 Data Analysis
+* ⚡ Performance Optimization
+* 🚀 Leadership
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, TypeScript
+**Backend:** Node.js, Python
+**DB:** PostgreSQL, MySQL
+
+</div>
+
+</div>
+
+<p align="center">
+  <i>💡 "Building scalable systems that solve real business problems."</i>
+</p>
+
 
 </td>
 
