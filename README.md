@@ -11,21 +11,17 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
 <!-- CARD CONTAINER -->
 
-<div style="max-width:800px; width:100%; border-radius:16px; padding:20px; border:1px solid #2f2f2f; background: linear-gradient(145deg, #0f0f0f, #1a1a1a); box-shadow: 0 8px 24px rgba(0,0,0,0.4); text-align:left;">
+<div style="max-width:800px; width:100%; border-radius:16px; padding:20px; border:1px solid #2f2f2f; background: linear-gradient(145deg, #0f0f0f, #1a1a1a); box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
 <!-- HEADER -->
 
-<h3 align="center">🚀 Nicolas Castaño</h3>
-<p align="center"><b>Full-Stack Developer & IT Director</b></p>
-<p align="center">📍 Pereira, Colombia 🇨🇴</p>
+<h3>🚀 Nicolas Castaño</h3>
+<p><b>Full-Stack Developer & IT Director</b></p>
+<p>📍 Pereira, Colombia 🇨🇴</p>
 
 ---
-
-<!-- CODE BLOCK -->
 
 ```javascript
 class NicolasCastano {
@@ -92,70 +88,9 @@ const nicolas = new NicolasCastano();
 
 </div>
 
-</div>
-
-<p align="center">
+<p>
   <i>💡 "Building scalable systems that solve real business problems."</i>
 </p>
-
-
-</td>
-
-<!-- RIGHT SIDE (CARD INFO) -->
-
-<td width="45%" align="left">
-
-<h3>🚀 Nicolas Castaño</h3>
-
-<p><b>Full-Stack Developer & IT Director</b></p>
-
-<p>📍 Pereira, Colombia 🇨🇴</p>
-
----
-
-### 🧠 Focus
-
-* Web Applications
-* System Architecture
-* Process Optimization
-* Business Impact
-
----
-
-### ⚡ Strengths
-
-* 🏗️ Scalable Systems
-* 📊 Data Analysis
-* ⚡ Performance Optimization
-* 🚀 Leadership
-
----
-
-### 🛠️ Stack
-
-**Frontend:** React, Next.js, TypeScript
-**Backend:** Node.js, Python
-**DB:** PostgreSQL, MySQL
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <i>💡 "Building scalable systems that solve real business problems."</i>
-</p>
-
-
-
 <!--- stats (end) -->
 
 
