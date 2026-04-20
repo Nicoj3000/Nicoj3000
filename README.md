@@ -9,72 +9,61 @@
   </ul>
 </div>
 
+👨‍💻 About Me
+const nicolas = {
+  role: ["IT Director", "Software Engineer", "Full-Stack Developer"],
+  location: "Pereira, Colombia 🇨🇴",
+  focus: [
+    "Scalable Web Applications",
+    "Process Optimization",
+    "System Architecture",
+    "Business-Driven Development"
+  ],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Python"],
+    databases: ["PostgreSQL", "MySQL"],
+    tools: ["Git", "Docker", "APIs", "Modern workflows"]
+  }
+};
 
+Software engineer with experience leading IT strategy and development execution, focused on building scalable solutions that improve operational efficiency and generate measurable business value.
 
+I combine technical expertise with strategic thinking, allowing me to design systems, optimize processes, and deliver impactful digital products.
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Code is life</h2></summary>
-  </ul>
-</div>
-<!--Intro end-->
-  <table align="center">
-<tr border="none">
-<td width="50%" align="left">
+💼 Experience
+🏢 IT Director / Software Engineer
 
-<!--Intro start-->
-## 🚀 About Me
+FH Vélez Abogados — Pereira, Colombia
 
-Software Developer focused on building **scalable, efficient, and high-impact web applications**.
-I specialize in **fullstack development**, creating robust solutions that combine solid backend architecture with intuitive user experiences.
+🚀 Lead IT strategy and execution aligned with business goals
+🧩 Drive digital transformation initiatives to improve operational efficiency
+🏗️ Coordinate development projects and scalable system implementations
+⚡ Optimize internal processes through custom software solutions
+💻 Full-Stack Developer
 
-I enjoy solving real-world problems through technology, optimizing processes, and delivering products that generate measurable value.
+Hidroconsultora
 
----
+🧠 Developed a route optimization system using Python
+📊 Processed and analyzed data with Pandas for decision-making
+🗺️ Integrated geolocation services using Geopy for real-world calculations
+🔗 Implemented graph-based algorithms with NetworkX to improve routing efficiency
+💰 Reduced transportation time and operational costs through optimization
+🚀 Key Project
+🛣️ Route Optimization System
 
-## 🧑‍💻 Tech Stack
+Tech Stack: Python • Pandas • NetworkX • Geopy
 
-* **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS
-* **Backend:** Node.js
-* **Architecture:** REST APIs, modular design, clean architecture
-* **Tools:** Git, modern development workflows
-
----
-
-## 💡 What I Do
-
-* 🌐 Build fullstack web applications
-* 🧩 Design scalable and maintainable systems
-* 📊 Transform business needs into technical solutions
-* ⚡ Optimize performance and user experience
-
----
-
-## 📫 Contact
-
-* 📧 **[nicolas.castano.delgado@gmail.com](mailto:nicolas.castano.delgado@gmail.com)**
-* 💬 **Discord:** nicoj3000
-
----
-
-## 🧠 Professional Profile
-
-Software developer with a strong focus on **creating efficient and scalable digital products**.
-I bring a balance between **technical execution and strategic thinking**, allowing me to contribute not only in development but also in decision-making and solution design.
-
-Always improving, always building.
-
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
+📍 Designed a system to optimize delivery and transport routes
+🧠 Applied graph algorithms for efficient path calculation
+📊 Data-driven decision making using real datasets
+⚡ Significant reduction in operational costs and travel time
+🧠 What I Bring
+🏗️ Design of scalable and maintainable systems
+📊 Strong problem-solving with data-driven approaches
+⚡ Performance optimization and process automation
+🧩 Translation of business needs into technical solutions
+🚀 Leadership in IT strategy and development execution
 
 
 
