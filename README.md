@@ -117,6 +117,9 @@ const nicoj3000 = new Nicolas();
 
 - **Systems Engineer — Universidad Libre (Pereira)** *(2021 – 2025)*
 
+- <img width="1600" height="1152" alt="WhatsApp Image 2026-04-24 at 11 12 44" src="https://github.com/user-attachments/assets/7bcd2d59-f2a1-4dea-a13e-c17f02342aee" />
+
+
 ---
 
 ## 📜 Certifications
