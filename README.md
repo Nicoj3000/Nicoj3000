@@ -61,8 +61,7 @@ class Nicolas {
   getContact() {
     return {
       email: "nicoj3000its@gmail.com",
-      linkedin: "https://www.linkedin.com/in/nicolas-delgado-6b22372b7/",
-      instagram: "https://www.instagram.com/nicolascd_16/"
+      linkedin: "https://www.linkedin.com/in/nicolas-delgado-6b22372b7/"
     };
   }
 }
